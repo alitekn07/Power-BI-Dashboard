@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/alitekn07/power-bi-dashboard">
-    <img src="https://i.imgur.com/Tn97RBF.png" alt="Portfolio Cover Image"/>
+  <a href="https://github.com/alitekn07/Power-BI-Dashboard">
+    <img src="https://i.imgur.com/MUc8xOl.png" alt="Portfolio Cover Image"/>
   </a>
 </p>
 
