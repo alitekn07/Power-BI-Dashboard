@@ -9,9 +9,7 @@
 ## 📌 Project Overview
 
 This project is a two-page interactive **Power BI dashboard portfolio project** built using a real-world e-commerce dataset.
-
 The objective is to analyze **sales performance, revenue trends, category contribution, and top-performing products** using Power BI and DAX.
-
 The dashboard is designed with a clean and business-focused layout suitable for **Business Intelligence and Data Analyst roles.**
 
 **Dataset period:**  
@@ -56,6 +54,8 @@ Total Orders
 Average Order Value
 Revenue Share %
 Ranking Measures
+```
+
 
 Top N filtering and ranking logic were implemented for category and product analysis.
 
@@ -89,7 +89,7 @@ power-bi-dashboard/
     └── README.md
 ```
 
-##📊 Outputs
+## 📊 Outputs
 
 The dashboard provides:
 
